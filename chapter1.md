@@ -5,7 +5,7 @@ description: >-
 
 
 ---
-## Insert exercise title here
+## Test MC Exercise
 
 ```yaml
 type: PureMultipleChoiceExercise
